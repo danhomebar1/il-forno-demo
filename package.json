@@ -1,0 +1,12 @@
+{
+  "name": "il-forno-demo",
+  "version": "1.0.0",
+  "description": "Il Forno Trattoria - The ESL Room B2B chatbot demo",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "formidable": "^3.5.1"
+  }
+}
